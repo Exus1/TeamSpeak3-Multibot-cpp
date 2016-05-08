@@ -2,3 +2,5 @@
 TeamSpeak3 C++ Multibot
 
 This is a CodeLite Workspace.
+
+LICENSE: MIT
